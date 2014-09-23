@@ -1,0 +1,42 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+void InicializarLista(){
+	int *endElem;
+
+	endElem = (int *) malloc (sizeof(int));
+}
+
+int InserirElementoLista(){
+
+
+}
+
+int RemoverElementoLista(){
+
+
+return(rem);
+}
+
+int AlterarElementoLista(){
+
+
+return(alt);
+}
+
+void ImprimirLista(){
+
+
+}
+
+int main(){
+
+	int i=0;
+	InicializarLista();
+	printf("");
+
+
+
+
+
+}
